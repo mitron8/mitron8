@@ -1,3 +1,13 @@
+<!-- Animated Welcome Box -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Hello+Mitroooo+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;Enjoy+your+stay+%F0%9F%8C%9F" alt="Hello Mitroooo" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%92%9C-Welcome-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Have_a_great_day!-purple?style=for-the-badge" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Ankur Kumar Sah</h1>
 <h3 align="center">A passionate Full stack /frontend developer from India</h3>
 
