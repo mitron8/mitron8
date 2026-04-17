@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **ankurbca2023@gmail.com**
 
-- 📄 Know about my experiences [https://ankur-portfolio-eight.vercel.app/](https://ankur-portfolio-eight.vercel.app/)
+
 
 - ⚡ Fun fact **I design better UIs at 2 AM than during the day! 😄**
 
